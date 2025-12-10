@@ -1,0 +1,14 @@
+#!/bin/bash
+# Molecular Biology Educational Model Query Wrapper
+# Easy access to query your protein structures and concepts
+
+cd "$(dirname "$0")"
+
+# Check if Python query script exists
+if [ ! -f "query.py" ]; then
+    echo "❌ Error: query.py not found in current directory"
+    exit 1
+fi
+
+# Run the Python query script with all arguments passed through
+python3 query.py "$@"

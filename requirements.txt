@@ -1,0 +1,2 @@
+# AI-Enhanced Molecular Biology Query System Requirements
+requests>=2.25.0
