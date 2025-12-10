@@ -1,0 +1,39 @@
+{
+  "Level 1: Basic Structure": [
+    "Atoms and Bonds",
+    "Amino Acids",
+    "Protein Backbone",
+    "Secondary Structure (\u03b1-helix, \u03b2-sheet)"
+  ],
+  "Level 2: Protein Architecture": [
+    "Protein Structure Levels",
+    "Tertiary Structure",
+    "Protein Folding",
+    "Active Sites",
+    "Domains"
+  ],
+  "Level 3: Complex Systems": [
+    "Quaternary Structure",
+    "Multi-subunit Proteins",
+    "Protein-Protein Interactions",
+    "Enzyme Catalysis"
+  ],
+  "Level 4: Biological Function": [
+    "Protein Function",
+    "Cell Signaling",
+    "Enzyme Kinetics",
+    "Metabolic Pathways"
+  ],
+  "Level 5: Experimental Science": [
+    "X-ray Crystallography",
+    "Cryo-EM",
+    "NMR Spectroscopy",
+    "Structural Data Interpretation"
+  ],
+  "Level 6: Applications": [
+    "Drug Design",
+    "Disease & Protein Mutations",
+    "Protein Engineering",
+    "Biotechnology"
+  ]
+}

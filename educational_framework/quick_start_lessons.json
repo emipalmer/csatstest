@@ -1,0 +1,193 @@
+{
+  "5_minute_hook": {
+    "title": "5-Minute Classroom Hook",
+    "description": "Grab student attention in 5 minutes",
+    "idea": "\nShow students this image:\nA colorful 3D protein structure from RCSB PDB\n\nAsk: \"What is this?\"\n\"Is it art? Is it alive? Is it a building blueprint?\"\n\nAnswer: \"It's a PROTEIN! A single molecule from your body right now!\"\n\n\"Every day, your cells are making thousands of these structures.\nYour hair, your muscles, your immune system\u2014all made of proteins.\nToday, we're going to learn what proteins are and how they work.\"\n\nResources:\n- Visit www.rcsb.org\n- Search for \"insulin\" or \"hemoglobin\"\n- Show the 3D structure in Mol* Viewer\n            "
+  },
+  "structure_function_lesson": {
+    "title": "Protein Structure Determines Function",
+    "duration": "1 class period",
+    "standards_aligned": [
+      "NGSS HS-LS1-1",
+      "NGSS HS-LS1-2"
+    ],
+    "learning_target": "Students will understand that protein shape determines what it does",
+    "lesson_steps": [
+      {
+        "step": 1,
+        "phase": "Engagement (5 min)",
+        "activity": "Show a lock and key. Ask: What would happen if the key was bent?",
+        "science_practice": "Asking Questions"
+      },
+      {
+        "step": 2,
+        "phase": "Exploration (10 min)",
+        "activity": "Students explore a protein structure online at RCSB PDB. Find the 'active site'.",
+        "science_practice": "Asking Questions, Analyzing Data",
+        "materials": "Computer access, RCSB PDB website"
+      },
+      {
+        "step": 3,
+        "phase": "Explanation (10 min)",
+        "activity": "Explain: Proteins have specific shapes like keys. When a substrate (ligand) fits, it works!",
+        "science_practice": "Developing & Using Models",
+        "discussion": "Why would a slightly different shape not work? (Lock and key analogy)"
+      },
+      {
+        "step": 4,
+        "phase": "Elaboration (10 min)",
+        "activity": "Mutation challenge: Show what happens when a protein is mutated (shape changes).",
+        "examples": [
+          "Sickle cell: Hemoglobin mutation changes shape",
+          "Cystic fibrosis: CFTR protein can't fold correctly"
+        ],
+        "science_practice": "Constructing Explanations"
+      },
+      {
+        "step": 5,
+        "phase": "Evaluation (5 min)",
+        "activity": "Exit ticket: Draw a protein shape and explain why shape matters.",
+        "assessment": "Conceptual understanding of structure-function"
+      }
+    ]
+  },
+  "experimental_methods_lesson": {
+    "title": "How Do Scientists See Proteins?",
+    "duration": "2-3 class periods",
+    "standards_aligned": [
+      "NGSS HS-ETS1-1",
+      "Scientific practices"
+    ],
+    "learning_target": "Understand how X-ray crystallography and Cryo-EM reveal protein structures",
+    "lesson_steps": [
+      {
+        "step": 1,
+        "activity": "Show X-ray diffraction pattern image",
+        "question": "What is this? How does it show us what proteins look like?"
+      },
+      {
+        "step": 2,
+        "activity": "Explain X-ray crystallography (simplified)",
+        "key_points": [
+          "Grow protein crystals",
+          "Shoot X-rays through them",
+          "Measure diffraction pattern",
+          "Computer reconstructs 3D model"
+        ]
+      },
+      {
+        "step": 3,
+        "activity": "Compare with Cryo-EM",
+        "key_points": [
+          "Freeze proteins in ice",
+          "Shoot electrons (not X-rays)",
+          "Take thousands of 2D images",
+          "Combine images to build 3D model"
+        ]
+      },
+      {
+        "step": 4,
+        "activity": "Show resolution comparison",
+        "discussion": "Higher resolution = more detail. Why does this matter?"
+      },
+      {
+        "step": 5,
+        "activity": "Find real examples in PDB database",
+        "task": "Search for a structure solved by X-ray and another by Cryo-EM"
+      }
+    ]
+  },
+  "gene_to_protein_lesson": {
+    "title": "From DNA to Protein to Function",
+    "duration": "3-4 class periods",
+    "standards_aligned": [
+      "NGSS HS-LS3-1"
+    ],
+    "learning_target": "Connect DNA sequence \u2192 Protein structure \u2192 Biological function",
+    "concept_map": "\n            DNA Sequence\n                    \u2193\n            (Transcription)\n                    \u2193\n            mRNA Sequence\n                    \u2193\n            (Translation)\n                    \u2193\n            Amino Acid Sequence\n                    \u2193\n            (Protein Folding)\n                    \u2193\n            3D Protein Structure\n                    \u2193\n            Biological Function\n                    \n            Example: Insulin Gene\n            - Shows how changing one DNA base\n            - Changes one amino acid\n            - Changes protein shape\n            - Changes how well it works\n            "
+  },
+  "disease_and_mutation_lesson": {
+    "title": "When Proteins Go Wrong: Genetic Disease",
+    "duration": "2-3 class periods",
+    "standards_aligned": [
+      "NGSS HS-LS4-3"
+    ],
+    "learning_target": "Understand how protein mutations cause disease",
+    "examples": {
+      "Sickle Cell Anemia": {
+        "mutation": "One amino acid change in hemoglobin",
+        "effect": "Proteins polymerize, distort cells",
+        "pdb_examples": [
+          "1A3N - Normal hemoglobin",
+          "2M2C - Sickle hemoglobin"
+        ]
+      },
+      "Cystic Fibrosis": {
+        "mutation": "CFTR protein can't fold correctly",
+        "effect": "Protein gets degraded, can't transport chloride",
+        "result": "Thick mucus builds up in lungs"
+      },
+      "Huntington's Disease": {
+        "mutation": "Huntingtin protein has extra repeats",
+        "effect": "Protein misfolds, forms aggregates",
+        "result": "Neurodegeneration"
+      }
+    }
+  },
+  "biotechnology_lesson": {
+    "title": "Using Proteins to Solve Problems",
+    "duration": "2 class periods",
+    "standards_aligned": [
+      "NGSS HS-ETS1-3"
+    ],
+    "learning_target": "Understand applications of protein science",
+    "applications": [
+      "Insulin production: Genetically engineered bacteria",
+      "Antibodies as medicine: Monoclonal antibodies for cancer",
+      "CRISPR: Using bacterial proteins for gene editing",
+      "Enzyme engineering: Proteins that break down plastic",
+      "Personalized medicine: Targeting proteins based on mutations"
+    ]
+  },
+  "student_projects": {
+    "title": "Student Project Ideas",
+    "difficulty_levels": {
+      "Easy (1-2 weeks)": [
+        "Compare protein structures from two organisms (e.g., human vs. pig insulin)",
+        "Create a 3D model of a protein using craft materials",
+        "Write a 'biography' of a protein - origin, function, diseases",
+        "Analyze how resolution affects structure detail"
+      ],
+      "Medium (2-4 weeks)": [
+        "Research a genetic disease caused by protein mutation",
+        "Design an experiment to test protein folding conditions",
+        "Compare evolutionary relationships using protein sequences",
+        "Analyze a drug target by studying its protein structure"
+      ],
+      "Advanced (4+ weeks)": [
+        "Molecular dynamics simulation of protein folding",
+        "Design a protein variant with improved function",
+        "Analyze cryo-EM data and build a structure",
+        "Research and propose treatment for protein misfolding disease"
+      ]
+    }
+  },
+  "assessment_ideas": {
+    "formative": [
+      "Concept sketches (draw what you observe in 3D structure)",
+      "Exit tickets (1-2 minute explanations)",
+      "Peer teaching (explain concept to classmate)",
+      "Structure prediction (what will happen if we change this?)"
+    ],
+    "summative": [
+      "Concept map exam (draw relationships between concepts)",
+      "Written explanation (explain a protein's function from its structure)",
+      "Problem solving (analyze a mutation and predict effects)",
+      "Research project (deep dive into a protein-related disease or technology)"
+    ]
+  },
+  "common_questions": {
+    "question": "Why are proteins important?",
+    "answer": "Proteins do almost all the work in living things - enzymes, structure, movement, immunity, etc."
+  }
+}

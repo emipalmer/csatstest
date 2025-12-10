@@ -1,0 +1,26 @@
+{
+  "total_records": 1061,
+  "resolution": {
+    "valid_entries": 313,
+    "min": 1.9,
+    "max": 3.49,
+    "mean": 2.8583010315582107
+  },
+  "r_work": {
+    "valid_entries": 0,
+    "mean": null
+  },
+  "r_free": {
+    "valid_entries": 0,
+    "mean": null
+  },
+  "polymer_entities": {
+    "min": 1,
+    "max": 92,
+    "mean": 14.253534401508011
+  },
+  "methods": {
+    "X-RAY DIFFRACTION": 315,
+    "ELECTRON MICROSCOPY": 746
+  }
+}

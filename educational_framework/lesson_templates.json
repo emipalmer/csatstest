@@ -1,0 +1,802 @@
+{
+  "Protein Quaternary Structure": {
+    "concept": "Protein Quaternary Structure",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "Structure-Function Relationship": {
+    "concept": "Structure-Function Relationship",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "Cryo-EM": {
+    "concept": "Cryo-EM",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "Gene Expression": {
+    "concept": "Gene Expression",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "Nucleic Acid-Protein Interactions": {
+    "concept": "Nucleic Acid-Protein Interactions",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "X-ray Crystallography": {
+    "concept": "X-ray Crystallography",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "Data Quality & Resolution": {
+    "concept": "Data Quality & Resolution",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "Enzyme Function": {
+    "concept": "Enzyme Function",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "Cell Signaling": {
+    "concept": "Cell Signaling",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  },
+  "Protein Structure-Function": {
+    "concept": "Protein Structure-Function",
+    "difficulty_level": "Intermediate",
+    "pdb_example": null,
+    "learning_objectives": [
+      "Students will understand the core principle",
+      "Students will visualize the concept with molecular structures",
+      "Students will apply the concept to real biological problems"
+    ],
+    "scientific_practices": [
+      "Asking Questions",
+      "Developing Models",
+      "Planning Investigations",
+      "Analyzing Data",
+      "Constructing Explanations",
+      "Engaging in Argument from Evidence",
+      "Obtaining, Evaluating & Communicating Information"
+    ],
+    "teaching_sequence": [
+      {
+        "phase": "Engagement",
+        "activities": [
+          "Show real PDB structure (3D visualization)",
+          "Ask guiding questions about molecular properties"
+        ],
+        "duration": "5-10 minutes"
+      },
+      {
+        "phase": "Exploration",
+        "activities": [
+          "Students interact with PDB structure online",
+          "Students collect data about structure features",
+          "Students form hypotheses"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Explanation",
+        "activities": [
+          "Connect observations to scientific principles",
+          "Explain concept through guided discovery",
+          "Use multiple representations (2D, 3D, sequence)"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "phase": "Elaboration",
+        "activities": [
+          "Apply concept to similar structures",
+          "Solve problems using PDB data",
+          "Make connections to other concepts"
+        ],
+        "duration": "15-20 minutes"
+      },
+      {
+        "phase": "Evaluation",
+        "activities": [
+          "Concept mapping exercise",
+          "Written explanation of concept",
+          "Peer discussion and critique"
+        ],
+        "duration": "10-15 minutes"
+      }
+    ],
+    "resources": [
+      "RCSB PDB (www.rcsb.org)",
+      "Mol* Viewer (online 3D visualization)",
+      "NCBI Structure Database",
+      "NextStrain for viral protein evolution"
+    ],
+    "assessment": {
+      "formative": "Observation checklists, concept sketches, peer feedback",
+      "summative": "Concept map, explanation essay, problem-solving tasks"
+    },
+    "connections": {
+      "previous_concepts": "List concepts that should be taught first",
+      "subsequent_concepts": "List concepts that build on this one",
+      "real_world_applications": "Disease research, drug development, biotechnology"
+    }
+  }
+}
